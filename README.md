@@ -1,3 +1,5 @@
 # basic-express-server
 
-WIP
+https://dion-basic-express-server.herokuapp.com/
+
+Deployed to Heroku. 
